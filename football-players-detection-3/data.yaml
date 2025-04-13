@@ -1,0 +1,15 @@
+names:
+- ball
+- goalkeeper
+- player
+- referee
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: football-players-detection-3zvbc-no5ik
+  url: https://universe.roboflow.com/bastinjob1998-gmail-com/football-players-detection-3zvbc-no5ik/dataset/3
+  version: 3
+  workspace: bastinjob1998-gmail-com
+test: ../test/images
+train: ../train/images
+val: ../valid/images

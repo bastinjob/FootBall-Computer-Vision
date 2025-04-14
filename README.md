@@ -1,4 +1,4 @@
-# Live Sport Video Analytics and Augmentation
+# Live Sports Video Analytics and Augmentation
 ![alt text](repo-artifacts/pipeline.png)
 This repository is dedicated to advancing sports video analytics and augmentation through cutting-edge computer vision techniques. It includes:
 
@@ -15,7 +15,7 @@ By leveraging state-of-the-art deep learning models, this project delivers an im
 
 
 
-## Object Detetction
+## Object Detection
 - YOLOv8s model fine tuned on foot ball dataset to predict the classes: player, referee, ball
 
 ![alt text](repo-artifacts/object-detection.png)

@@ -42,7 +42,7 @@ By leveraging state-of-the-art deep learning models, this project delivers an im
 
 <img src="repo-artifacts/team_assigned.png">
 
-[VIDEO DEMO)](https://www.canva.com/design/DAGkkoH6KHw/joxP6bqoyxks_JvjEcCntw/watch?utm_content=DAGkkoH6KHw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h216485b4d8)
+[VIDEO DEMO](https://www.canva.com/design/DAGkkoH6KHw/joxP6bqoyxks_JvjEcCntw/watch?utm_content=DAGkkoH6KHw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h216485b4d8)
 
 ## Radar View Projection : Keypoint Detection + homography tansformation
 

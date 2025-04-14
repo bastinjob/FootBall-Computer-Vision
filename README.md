@@ -74,8 +74,8 @@ By leveraging state-of-the-art deep learning models, this project delivers an im
 - Ensure the ad is blended realistically with the field (optional alpha blending / shadows).
 
 <img src="repo-artifacts/pre-ad.png">
-<img src="repo-artifacts/ad1.png">
-<img src="repo-artifacts/ad2.png">
+<img src="repo-artifacts/ads1.png">
+<img src="repo-artifacts/ads2.png">
 
 
 

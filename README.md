@@ -49,8 +49,8 @@ By leveraging state-of-the-art deep learning models, this project delivers an im
 - Compute Homography:	Use cv2.findHomography() or a custom transformer  to compute the matrix from frame → pitch.
 
 - Warp Coordinates	Apply that homography to transform all player/ball positions to the radar view.
-
-<img src="repo-artifacts/radar_view.png">
+<img src="repo-artifacts/team_assigned.png">
+<img src="repo-artifacts/radar.png">
 
 ## Ball Tracking
 - Detect objects and isolate the ball.
